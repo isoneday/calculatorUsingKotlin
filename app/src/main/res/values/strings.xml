@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">calculator</string>
+    <string name="input">input</string>
+    <string name="input2">input2</string>
+    <string name="button1">button1</string>
+    <string name="button2">button2</string>
+    <string name="button3">button3</string>
+    <string name="button4">button4</string>
+    <string name="textview">TextView</string>
+    <string name="perkalian">perkalian</string>
+    <string name="pembagian">pembagian</string>
+    <string name="pengurangan">pengurangan</string>
+    <string name="pertambahan">pertambahan</string>
+    <string name="hasil">Hasil</string>
+    <string name="clear">clear</string>
+    <string name="angka1">Angka1</string>
+    <string name="angka2">angka2</string>
+    <string name="hapus">Hapus</string>
+</resources>
